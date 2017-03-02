@@ -1,6 +1,6 @@
 ## Ember Website
 
-The website for the Ember.js project.
+The website for the Ember.js project with the default branch set to Ember 1.7.0 & Ember Data 1.0.beta9
 
 ### Contributing
 
